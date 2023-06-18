@@ -1,0 +1,312 @@
+@media only screen and (max-width:699px) {
+.socialproof-image{
+    width: 80%;
+    margin-left: 33px;
+    height: auto;
+    }}   
+
+
+@media only screen and (max-width:799px) {
+.titulo{
+            width: 100%;
+            max-width: 100%;
+            font-family: Poppins;
+            font-size: 24px;
+            font-weight: 650;
+            margin-bottom: 10px;
+            text-align: center;
+            margin-top: 5px;
+            margin-left: 5px;
+        
+    }}
+
+
+@media screen and (min-width:800px) {
+.titulo{
+            font-family: Poppins;
+            width:45%;
+            font-size: 34px;
+            font-weight: 950;
+            margin-bottom: 10px;
+            text-align: left;
+            margin-top: 0px;
+            margin-left: 60px;
+    }}
+
+@media screen and (max-width:799px) {
+.leer-post {
+            background-color: rgb(247,168,72);
+            color: white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            border: none;
+            height: 40px;
+            width: 120px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 15px;
+            margin-top: 15px;
+            font-family: Poppins;
+            left: 35%;
+            position: relative;
+    }}
+
+
+@media screen and (min-width:800px) {
+.leer-post {
+            background-color: rgb(247,168,72);
+            color: white;
+            border: none;
+            height: 40px;
+            width: 120px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 15px;
+            margin-top: 15px;
+            font-family: Poppins;
+            left: 18%;
+            position: relative;
+    }}
+        
+.leer-post:hover{
+            opacity: 0.8;
+            
+        } 
+        
+       
+.leer-post:active{
+            opacity: 0.5;
+            
+        } 
+        
+        
+        
+@media only screen and (max-width:799px){       
+.subtitulo{
+            width:100%;
+            max-width: 100%;
+            font-family: Poppins;
+            font-size: 14px;
+            font-weight: normal;
+            margin-top: 10px;
+            text-align: center;
+            line-height: 28px;
+            margin-bottom: 0px;
+            margin-left: 10px;
+    } }
+
+@media screen and (min-width:800px){       
+.subtitulo{
+            width:100%;
+            font-family: Poppins;
+            font-size: 16px;
+            font-weight: normal;
+            margin-top: 10px;
+            text-align: left;
+            line-height: 28px;
+            margin-bottom: 0px;
+            margin-left: 60px;
+            max-width: 100%;
+    } }
+
+@media only screen and (max-width:699px){       
+.titulo-seccion{
+            font-family: Poppins;
+            font-size: 22px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            text-align: center;
+            margin-top: 35px;
+            
+    } }
+
+
+
+@media only screen and (min-width:700px){       
+.titulo-seccion{
+            font-family: Poppins;
+            font-size: 25px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            text-align: left;
+            margin-top: 35px;
+            margin-left: 60px;
+            
+    } }
+
+@media only screen and (max-width:799px){       
+iframe{
+    border-radius: 10px;
+    width: 100%;
+    
+    }}
+
+@media only screen and (min-width:800px){       
+iframe{
+    border-radius: 10px;
+    width: 50%;
+    
+    }}
+
+@media only screen and (max-width:699px) {
+.thumbnail{
+    width: 80%; 
+    margin-left: 33px;
+    margin-right: auto;
+    margin-top: 20px;
+    
+    
+    }}
+
+@media only screen and (min-width:699px) {
+.thumbnail{
+    margin-right: 60px;
+    margin-top: 20px;
+    margin-left: 60px;
+    
+    }}
+
+@media only screen and (min-width:699px) {
+.grid{
+    display: grid;
+    column-gap: 120px;
+    max-width: 80%;
+    
+}
+
+@media only screen and (min-width:700px) {
+.grid{
+    display: grid;
+    grid-template-columns: 290px 290px 290px;
+    column-gap: 120px;
+    max-width: 100%;
+    
+}    
+    
+@media only screen and (max-width:600px) {
+.grid{
+    display: grid;
+    max-width: 100%;
+    
+    }}
+    
+    
+    
+div{
+    text-align:center;
+}
+
+.hero-section{
+    background-image: url(Hero-section.svg);
+    width: 100%;
+    margin-top: 0px;
+    height: 600px;
+}
+
+.featured-section{
+    width: 100%;
+    margin-top: -40px;
+    height: 460px;
+    margin-left: 0px;
+    padding: 0px;
+}
+    
+.socialproof-section{
+    width: 100%;
+   
+}
+    
+
+@media only screen and (max-width:699px) {
+.socialproof-image{
+    width: 100%;
+    height: auto;
+    }}    
+    
+@media only screen and (min-width:700px) {
+.socialproof-image{
+    margin-left: 60px;
+    height: 240px;
+    
+    }}
+
+
+
+
+@media screen and (max-width:900px) {
+.titulo{
+            font-family: Poppins;
+            font-size: 20px;
+            font-weight: 650;
+            margin-bottom: 10px;
+            text-align: center;
+            margin-top: 5px;
+            width: 100%;
+            margin-left: 5px;
+            max-width: 100%;
+}
+   .subtitulo{
+            font-family: Poppins;
+            font-size: 9px;
+            font-weight: normal;
+            margin-top: 4px;
+            text-align:center;
+            width:80%;
+            line-height: 28px;
+            margin-bottom: 0px;
+            margin-left: 5px;
+            margin-bottom: 0px;
+            
+        } 
+    
+    .iframe{
+    border-radius: 10px;
+    width: 100%;
+    max-width: 80%;
+    margin-top: -10px; 
+    margin-left: 10px;
+    background-color: rgb(255,255,255);
+}
+    .titulo-seccion{
+            font-family: Poppins;
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            text-align: center;
+            margin-top: -20px;
+            margin-left: 10px;
+            width: 80%;
+        } 
+    hero-section{
+    background-size: 100% auto;
+    width: 100%;
+    margin-top: 0px;
+    height: 600px;
+}
+    
+    
+    .thumbnail{
+    width: 80%;
+    }
+    
+    
+    .leer-post {
+            background-color: rgb(247,168,72);
+            color: white;
+            border: none;
+            height: 40px;
+            width: 120px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 15px;
+            margin-top: 15px;
+            font-family: Poppins;
+            left: 18%;
+            position: static;
+        }
+        
+    .book {width:80%}
+    
+    .body{width:100%} 
+}
